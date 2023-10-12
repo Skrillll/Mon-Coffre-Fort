@@ -11,8 +11,12 @@
             "id": "b2e3824ad68411be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. Mon Plan de Vie/1. Identité et Croissance Personnelle/1. Vision Globale/Objectifs/A court terme/Vision Globale - Objectifs à court terme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. Mon Plan de Vie/1. Identité et Croissance Personnelle/1. Vision Globale/Objectifs/A court terme/Vision Globale - Objectifs à court terme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. Mon Plan de Vie/1. Identité et Croissance Personnelle/1. Vision Globale/Objectifs/A court terme/Vision Globale - Objectifs à court terme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. Mon Plan de Vie/1. Identité et Croissance Personnelle/1. Vision Globale/Objectifs/A court terme/Vision Globale - Objectifs à court terme.md"
+              }
             }
           }
         ]
