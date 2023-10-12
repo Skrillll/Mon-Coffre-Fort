@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Mon Plan de Vie/1. Identité et Croissance Personnelle/1. Vision Globale/Objectifs/A court terme/Vision Globale - Objectifs à court terme.md",
+                "file": "TO DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9cb6f5fa61e8fb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dbccd4402ddc444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Voir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "315ebf448e875b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Prompts/Prompt Generator/Techniques et Connaissances/Création et critique de prompts à partir d'un sujet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f9daac99afe0bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DigiAira/0. Identité/Q-R/Questions- Réponses.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 457.5
   },
   "right": {
     "id": "6bcdfc43e3f43867",
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Mon Plan de Vie/1. Identité et Croissance Personnelle/1. Vision Globale/Objectifs/A court terme/Vision Globale - Objectifs à court terme.md",
+                "file": "DigiAira/0. Identité/Q-R/Questions- Réponses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Mon Plan de Vie/1. Identité et Croissance Personnelle/1. Vision Globale/Objectifs/A court terme/Vision Globale - Objectifs à court terme.md",
+                "file": "DigiAira/0. Identité/Q-R/Questions- Réponses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Mon Plan de Vie/1. Identité et Croissance Personnelle/1. Vision Globale/Objectifs/A court terme/Vision Globale - Objectifs à court terme.md"
+                "file": "DigiAira/0. Identité/Q-R/Questions- Réponses.md"
               }
             }
           }
@@ -143,9 +192,50 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b2e3824ad68411be",
-  "lastOpenFiles": []
+  "active": "7f9daac99afe0bb1",
+  "lastOpenFiles": [
+    "Check List.md",
+    "DigiAira/0. Identité/Q-R/Questions- Réponses.md",
+    "DigiAira/0. Identité/Q-R",
+    "DigiAira/0. Identité/Hospitalité/DigiAira - Révolution de l'Hospitalité grâce à l'Intelligence Artificielle.md",
+    "DigiAira/Plan d'Action/Plan d'Action pour DigiAira.md",
+    "DigiAira/0. Identité/Hospitalité",
+    "DigiAira/0. Identité",
+    "DigiAira/Marketing/Offre/Offre de DigiAira.md",
+    "DigiAira/Plan d'Action",
+    "DigiAira/Relations/Partenariats/Partenariats avec des consultants, des experts, des restaurants, hôtels et riads renommés.md",
+    "DigiAira/Marketing/Offre",
+    "DigiAira/Marketing",
+    "0. Mon Plan de Vie/0. Étapes Principales/1. Définissez vos valeurs et vos objectifs/Définissez vos valeurs et vos objectifs.md",
+    "DigiAira/Relations/Partenariats/Riads",
+    "DigiAira/Relations/Partenariats/Hôtels",
+    "DigiAira/Relations/Partenariats/Restaurants, hôtels et riads",
+    "DigiAira/Relations/Partenariats",
+    "Excalidraw/Drawing 2023-10-12 18.37.00.excalidraw.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Prompts/Prompt Generator/Techniques et Connaissances/Création et critique de prompts à partir d'un sujet.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Prompts/Prompt Generator/PROMPTOR.md",
+    "Interessant.md",
+    "A Voir.md",
+    "TO DO.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Organisateur de Projet.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Dessins, illustrations, images, photos, videos icônes et polices de caractères.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Vérifier les contenus les plus partagés.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Trouver des recommandations de logiciels gratuits.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Créer un email pour 10 minutes.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Guides pour réparer presque tout.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Créer des nœuds de texte autodestructeurs.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Vérifiez la vitesse de votre site web.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Vérifiez vos écrits.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Partage d'écran.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Protéger vos e-mails contre le spam.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Analyser tout fichier suspect.md",
+    "0. Mon Plan de Vie/8. Technologie et Innovation/1. Technologie/Outils pour l'efficacité/Plateformes et Sites Web/Transfert de gros fichiers.md"
+  ]
 }

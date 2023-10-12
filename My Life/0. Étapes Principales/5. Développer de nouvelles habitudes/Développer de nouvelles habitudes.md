@@ -1,1 +1,0 @@
-Commencez par vous concentrer sur une ou deux nouvelles habitudes à la fois. Incorporez-les progressivement à votre routine quotidienne et soyez patient, car il faut du temps pour prendre de nouvelles habitudes.

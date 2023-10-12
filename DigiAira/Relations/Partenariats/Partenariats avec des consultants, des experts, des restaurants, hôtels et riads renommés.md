@@ -1,0 +1,3 @@
+- Identifier et contacter des établissements cibles à Marrakech.
+- Proposer une période d'essai gratuite d'un mois pour le service de DigiAira.
+- Mettre en place un système de suivi régulier pour obtenir des retours pendant cette période d'essai.

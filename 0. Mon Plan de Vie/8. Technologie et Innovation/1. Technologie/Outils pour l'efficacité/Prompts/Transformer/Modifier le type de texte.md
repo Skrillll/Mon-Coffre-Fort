@@ -1,0 +1,1 @@
+Transformez maintenant toutes les informations ci-dessus en [type de texte].

@@ -1,0 +1,1 @@
+Efforcez-vous d'avoir un mode de vie équilibré entre le travail, les loisirs et le temps personnel. N'oubliez pas de profiter du voyage, car la vie ne consiste pas seulement à atteindre des objectifs, mais aussi à vivre des expériences et à nouer des relations tout au long du chemin.

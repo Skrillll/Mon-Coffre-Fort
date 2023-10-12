@@ -1,1 +1,0 @@
-Faites part de vos objectifs à des amis proches ou à des membres de votre famille qui pourront vous encourager et vous guider. Vous pouvez également envisager de rejoindre un groupe de soutien ou de travailler avec un coach de vie ou un thérapeute.

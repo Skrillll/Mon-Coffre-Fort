@@ -1,0 +1,1 @@
+Si nous devions résoudre ce problème avec la moitié des ressources ou du temps, que ferions-nous différemment ?

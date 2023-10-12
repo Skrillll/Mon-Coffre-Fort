@@ -1,0 +1,1 @@
+[Create GPT from scratch using Python — Part 1 | by Fareed Khan | Medium](https://medium.com/@fareedkhandev/create-gpt-from-scratch-using-python-part-1-bd89ccf6206a)

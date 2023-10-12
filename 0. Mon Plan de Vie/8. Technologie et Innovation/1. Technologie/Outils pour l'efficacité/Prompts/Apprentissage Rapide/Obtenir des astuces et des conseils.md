@@ -1,0 +1,1 @@
+Quels conseils pratiques et immédiatement applicables donneriez-vous à quelqu'un qui débute dans ce domaine ?  

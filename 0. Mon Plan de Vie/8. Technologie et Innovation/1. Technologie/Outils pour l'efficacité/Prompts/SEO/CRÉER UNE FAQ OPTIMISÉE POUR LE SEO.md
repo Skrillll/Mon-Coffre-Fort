@@ -1,0 +1,1 @@
+Je souhaite rédiger une FAQ pour améliorer le référencement de mon site internet pour le mot clé [VOTRE MOT CLÉ]. Peux-tu me donner la liste des 10 principales questions que se posent les personnes qui envisagent d’acheter [VOTRE PRODUIT/SERVICE] ?

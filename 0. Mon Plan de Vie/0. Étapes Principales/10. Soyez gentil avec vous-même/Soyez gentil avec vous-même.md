@@ -1,0 +1,1 @@
+Le changement demande du temps et des efforts. Soyez patient avec vous-même et n'oubliez pas que vous avez le droit de faire des erreurs. Utilisez les échecs comme des opportunités d'apprentissage et de croissance.

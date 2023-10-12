@@ -1,0 +1,1 @@
+Comment cette décision affectera-t-elle les différentes parties prenantes ? Existe-t-il des conflits d'intérêts potentiels ?

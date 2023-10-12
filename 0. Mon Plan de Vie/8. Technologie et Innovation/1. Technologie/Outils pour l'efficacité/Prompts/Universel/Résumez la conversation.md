@@ -1,0 +1,1 @@
+Rédigez un résumé de notre conversation sous forme de puces.

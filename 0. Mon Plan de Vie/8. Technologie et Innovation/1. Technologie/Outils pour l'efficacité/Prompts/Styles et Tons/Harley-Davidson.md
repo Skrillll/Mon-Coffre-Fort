@@ -1,0 +1,1 @@
+Liberté, individualisme et esprit américain.

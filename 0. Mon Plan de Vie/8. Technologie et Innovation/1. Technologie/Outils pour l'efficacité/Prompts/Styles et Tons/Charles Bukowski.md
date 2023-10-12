@@ -1,0 +1,1 @@
+Réalisme cru et grinçant, et œuvres semi-autobiographiques    

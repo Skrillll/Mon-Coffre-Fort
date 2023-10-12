@@ -1,0 +1,1 @@
+Veillez à prendre soin de votre bien-être physique, émotionnel et mental. Il s'agit notamment de bien manger, de faire de l'exercice, de dormir suffisamment, de gérer le stress et d'entretenir vos relations sociales.

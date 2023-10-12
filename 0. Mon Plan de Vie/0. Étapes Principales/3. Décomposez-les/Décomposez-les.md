@@ -1,0 +1,1 @@
+Fixez des objectifs réalistes et réalisables pour les différents aspects de votre vie, tels que les relations, la carrière, la santé et le développement personnel. Divisez ces objectifs en petites étapes et établissez un calendrier pour vous aider à rester sur la bonne voie.

@@ -1,1 +1,0 @@
-Avant de changer de vie, il est essentiel de comprendre votre situation actuelle. Notez ce que vous aimez et ce que vous n'aimez pas dans votre mode de vie actuel et identifiez les domaines dans lesquels vous souhaitez apporter des améliorations.

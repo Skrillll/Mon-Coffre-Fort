@@ -1,0 +1,1 @@
+Adoptez un état d'esprit de croissance, ce qui signifie apprendre, grandir et s'améliorer en permanence dans tous les aspects de votre vie. Recherchez de nouvelles expériences, connaissances et compétences.

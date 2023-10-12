@@ -1,0 +1,1 @@
+Quelles sont les compétences ou les connaissances les plus importantes pour les débutants dans ce domaine ?

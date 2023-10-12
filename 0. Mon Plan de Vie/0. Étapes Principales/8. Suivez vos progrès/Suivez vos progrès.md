@@ -1,0 +1,1 @@
+Faites régulièrement le point avec vous-même pour évaluer vos progrès et procéder aux ajustements nécessaires. Célébrez vos réussites et n'oubliez pas que les revers font naturellement partie du processus.
